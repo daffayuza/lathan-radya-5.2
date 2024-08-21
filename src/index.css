@@ -1,0 +1,28 @@
+.contact {
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width: 20rem;
+  border: solid 2px;
+}
+
+.login {
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width: 20rem;
+  padding: 1rem;
+  border: solid 2px;
+}
+
+.login form label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.login form button {
+  margin-top: 1rem;
+}
